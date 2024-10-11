@@ -58,5 +58,5 @@ Make sure you have the following installed:
 
 ## Cloning the Repository
 
-`git clone https://github.com/yourusername/job-portal.git
-cd job-portal`
+`git clone https://github.com/yourusername/job-portal.git`
+`cd job-portal`
