@@ -1,7 +1,11 @@
 <div align="center">
     <br />
     <a href="" target="_blank">
-        <img src="./public/job-portal-banner.png" alt="Project Banner">
+        <img src="./public/screenshots/screen1.png" alt="Project Banner">
+         <img src="./public/screenshots/screen2.png" alt="Project Banner">
+          <img src="./public/screenshots/screen3.png" alt="Project Banner">
+           <img src="./public/screenshots/screen4.png" alt="Project Banner">
+            <img src="./public/screenshots/screen5.png" alt="Project Banner">
     </a>
     <br />
     <div>
