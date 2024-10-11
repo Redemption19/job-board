@@ -1,18 +1,25 @@
-<div align="center"> <br /> <a href="" target="_blank"> <img src="./public/job-portal-banner.png" alt="Project Banner"> </a>
+<div align="center">
     <br />
-    <div> <img src="https://img.shields.io/badge/-PHP-black?style=for-the-badge&logoColor=white&logo=php&color=777BB4" alt="php" /> <img src="https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logoColor=white&logo=laravel&color=FF2D20" alt="laravel" /> <img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logoColor=white&logo=mysql&color=4479A1" alt="mysql" /> 
-</div> 
+    <a href="" target="_blank">
+        <img src="./public/job-portal-banner.png" alt="Project Banner">
+    </a>
+    <br />
+    <div>
+        <img src="https://img.shields.io/badge/-PHP-black?style=for-the-badge&logoColor=white&logo=php&color=777BB4" alt="php" />
+        <img src="https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logoColor=white&logo=laravel&color=FF2D20" alt="laravel" />
+        <img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logoColor=white&logo=mysql&color=4479A1" alt="mysql" />
+    </div>
     <h3 align="center">Advanced Job Portal</h3>
 </div>
 
-📋 <a name="table">Table of Contents</a>
+## 📋 <a name="table">Table of Contents</a>
 
-🤖 Introduction
-⚙️ Tech Stack
-🔋 Features
-🤸 Quick Start
-🕸️ Assets & Code
-🚀 More
+1. 🤖 [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🔋 [Features](#features)
+4. 🤸 [Quick Start](#quick-start)
+5. 🕸️ [Assets & Code](#snippets)
+6. 🚀 [More](#more)
 
 ## <a name="introduction">🤖 Introduction</a>
 
