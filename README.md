@@ -51,7 +51,12 @@ Follow these steps to set up the project locally.
 
 Make sure you have the following installed:
 
-Git
-PHP
-Composer
-MySQL
+- Git
+- PHP
+- Composer
+- MySQL
+
+## Cloning the Repository
+
+`git clone https://github.com/yourusername/job-portal.git
+cd job-portal`
