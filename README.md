@@ -16,6 +16,7 @@ Laravel 10
 MySQL
 Stripe, PayPal, Razorpay (Payment Gateways)
 HTML, CSS, JavaScript
+
 <a name="features">🔋 Features</a>
 👉 Multi-Authentication System: Different dashboards for Admins, Companies, and Candidates, each with tailored functionalities to ensure personalized user interactions.
 
