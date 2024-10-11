@@ -1,5 +1,12 @@
-<div align="center"> <br /> <a href="" target="_blank"> <img src="./public/job-portal-banner.png" alt="Project Banner"> </a> <br /> <div> <img src="https://img.shields.io/badge/-PHP-black?style=for-the-badge&logoColor=white&logo=php&color=777BB4" alt="php" /> <img src="https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logoColor=white&logo=laravel&color=FF2D20" alt="laravel" /> <img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logoColor=white&logo=mysql&color=4479A1" alt="mysql" /> </div> <h3 align="center">Advanced Job Portal</h3> </div>
+<div align="center"> <br /> <a href="" target="_blank"> <img src="./public/job-portal-banner.png" alt="Project Banner"> </a>
+    <br />
+    <div> <img src="https://img.shields.io/badge/-PHP-black?style=for-the-badge&logoColor=white&logo=php&color=777BB4" alt="php" /> <img src="https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logoColor=white&logo=laravel&color=FF2D20" alt="laravel" /> <img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logoColor=white&logo=mysql&color=4479A1" alt="mysql" /> 
+</div> 
+    <h3 align="center">Advanced Job Portal</h3>
+</div>
+
 📋 <a name="table">Table of Contents</a>
+
 🤖 Introduction
 ⚙️ Tech Stack
 🔋 Features
@@ -8,14 +15,16 @@
 🚀 More
 
 ## <a name="introduction">🤖 Introduction</a>
+
 The Advanced Job Portal is a fully featured job management platform developed using Laravel 10. It supports multiple user roles—Admin, Company, and Candidate—with tailored functionalities for each, including job posting, dynamic pricing, and application management. This project aims to streamline the recruitment process, ensuring an intuitive and efficient experience for both companies and job seekers.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
-PHP
-Laravel 10
-MySQL
-Stripe, PayPal, Razorpay (Payment Gateways)
-HTML, CSS, JavaScript
+
+- PHP
+- Laravel 10
+- MySQL
+- Stripe, PayPal, Razorpay (Payment Gateways)
+- HTML, CSS, JavaScript
 
 <a name="features">🔋 Features</a>
 
@@ -28,6 +37,7 @@ HTML, CSS, JavaScript
 👉 Dashboard Analytics: Admin and user dashboards provide real-time data insights on job postings, applications, and overall platform performance.
 
 ## <a name="quick-start">🤸 Quick Start</a>
+
 Follow these steps to set up the project locally.
 
 Prerequisites
