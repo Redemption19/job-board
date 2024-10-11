@@ -33,7 +33,7 @@ The Advanced Job Portal is a fully featured job management platform developed us
 - Stripe, PayPal, Razorpay (Payment Gateways)
 - HTML, CSS, JavaScript
 
-<a name="features">🔋 Features</a>
+## <a name="features">🔋 Features</a>
 
 👉 Multi-Authentication System: Different dashboards for Admins, Companies, and Candidates, each with tailored functionalities to ensure personalized user interactions.
 
@@ -47,7 +47,7 @@ The Advanced Job Portal is a fully featured job management platform developed us
 
 Follow these steps to set up the project locally.
 
-Prerequisites
+## Prerequisites
 
 Make sure you have the following installed:
 
