@@ -18,6 +18,7 @@ Stripe, PayPal, Razorpay (Payment Gateways)
 HTML, CSS, JavaScript
 
 <a name="features">🔋 Features</a>
+
 👉 Multi-Authentication System: Different dashboards for Admins, Companies, and Candidates, each with tailored functionalities to ensure personalized user interactions.
 
 👉 Dynamic Job Posting & Management: Companies can dynamically post jobs and manage categories, locations, roles, and more, leading to a user-friendly job listing process.
