@@ -70,8 +70,8 @@ Set up Environment Variables
 
 Create a `.env` file by copying the example:
 
-cp .env.example .env
-Update the .env file with your database, email, and payment gateway credentials.
+cp `.env.example` `.env`
+Update the `.env` file with your database, email, and payment gateway credentials.
 
 ## Running Migrations
 
@@ -81,7 +81,9 @@ php artisan migrate
 Running the Project
 
 php artisan serve
+
 Visit http://localhost:8000 to view the project.
 
-<a name="more">🚀 More</a>
+## <a name="more">🚀 More</a>
+
 For further customization, documentation, or support, please refer to the Laravel Official Documentation.
