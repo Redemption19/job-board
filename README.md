@@ -60,3 +60,28 @@ Make sure you have the following installed:
 
 - `git clone https://github.com/yourusername/job-portal.git`
 - `cd job-portal`
+
+## Installation
+
+Install project dependencies:
+
+composer install
+Set up Environment Variables
+
+Create a `.env` file by copying the example:
+
+cp .env.example .env
+Update the .env file with your database, email, and payment gateway credentials.
+
+## Running Migrations
+
+### Run the database migrations to set up the schema:
+
+php artisan migrate
+Running the Project
+
+php artisan serve
+Visit http://localhost:8000 to view the project.
+
+<a name="more">🚀 More</a>
+For further customization, documentation, or support, please refer to the Laravel Official Documentation.
